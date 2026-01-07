@@ -1,0 +1,5 @@
+{
+  "name": "Chronos Randomizer",
+  "description": "A high-precision random decision maker that uses real-time millisecond entropy to drive numeric ranges and custom option selections, featuring AI-powered fate insights.",
+  "requestFramePermissions": []
+}
